@@ -1,19 +1,20 @@
 # Inventory 
 
-The Inventory program will read the data if an inventory from a text file and will allow the user to enter, view, extract, update and search the inventory of a shoe store. 
+The Inventory program will read the data of a shoe store inventory from a text file and will allow the user to enter, view, extract, update and search it. 
 
 ## Table of Contents
+
 - [Inventory](#inventory)
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Contributing](#contributing)
-  * [License](#license)
-  * [And a table of contents](#and-a-table-of-contents)
-  * [On the right](#on-the-right)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+    - [Install Visual Studio](#install-visual-studio)
+    - [Install python-tabulate](#install-python-tabulate)
+  - [Usage](#usage)
+  - [License](#license)
 
 ## Installation
 
-Install visual studio
+### Install Visual Studio
 
 Please read the following instructions in full before following them:
 1. Visit https://code.visualstudio.com/
@@ -29,28 +30,30 @@ Please read the following instructions in full before following them:
     * For all operating systems, ensure that your environment paths are up-to-date with regards to your installation.
     * Per the guidelines linked above, ensure that you install the latest stable version of Microsoft’s Python extension available from https://marketplace.visualstudio.com/items?itemName=ms-python.python so that you get tooltips and other useful tooling that help you as your program.
 
-## Usage
+### Install python-tabulate
 
-```python
-import foobar
+You will also need to install the tabulate python library.
 
-# returns 'words'
-foobar.pluralize('word')
+To install it, open the command line and run:
 
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+```bash
+pip install tabulate
 ```
 
-## Contributing
+The command line utility will be installed as tabulate to bin on Linux (e.g. /usr/bin); or as tabulate.exe to Scripts in your Python installation on Windows (e.g. C:\Python39\Scripts\tabulate.exe).
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+## Usage
 
-Please make sure to update tests as appropriate.
+After you clone the repository you should be able to open it with Visual Studio.
+
+Press the Run and Debug button from the left-hand side menu or press F5 when the inventory.py tab is open.
+C:\Users\DimKo\OneDrive\Έγγραφα\Software Engineer Bootcamp\T32\Images
+
+![Alt text]:\Users\DimKo\OneDrive\Έγγραφα\Software Engineer Bootcamp\T32\Images\Run and Debug.png?raw=true "Optional Title")
+
+image.png
+
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+Dimitrios Kommas 
