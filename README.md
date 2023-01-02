@@ -49,9 +49,13 @@ After you clone the repository you should be able to open it with Visual Studio.
 Press the Run and Debug button from the left-hand side menu or press F5 when the inventory.py tab is open.
 C:\Users\DimKo\OneDrive\Έγγραφα\Software Engineer Bootcamp\T32\Images
 
-![Alt text]:\Users\DimKo\OneDrive\Έγγραφα\Software Engineer Bootcamp\T32\Images\Run and Debug.png?raw=true "Optional Title")
+![image](https://user-images.githubusercontent.com/18433880/210266247-926c5645-9956-401b-aec9-8bf7880a16c3.png)
 
-image.png
+Then a meesage will be printed in the terminal with several options for the user.
+
+
+
+
 
 
 ## License
