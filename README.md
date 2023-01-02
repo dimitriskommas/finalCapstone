@@ -53,10 +53,17 @@ C:\Users\DimKo\OneDrive\Έγγραφα\Software Engineer Bootcamp\T32\Images
 
 Then a meesage will be printed in the terminal with several options for the user.
 
+![image](https://user-images.githubusercontent.com/18433880/210267465-7102b884-a447-4620-90f4-14d76ed94712.png)
 
+Then depending the option the user wants to use, they will have to type it.
 
+For example, if they needs to check the total value of each product, they have to type value and press enter.
 
+![image](https://user-images.githubusercontent.com/18433880/210267404-1a3fb90f-5920-4ced-8172-0f28517aa1ac.png)
 
+If the user types the wrong option, an error message will be printed and they will be asked to try again.
+
+![image](https://user-images.githubusercontent.com/18433880/210267648-907269d0-a9e8-4cfa-b0be-3ee155967c78.png)
 
 ## License
 
